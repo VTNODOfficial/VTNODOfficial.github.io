@@ -6,7 +6,7 @@
 
 *Secure • Transparent • Scalable • Global*
 
-![Status](https://lh3.googleusercontent.com/sitesv/AA5AbUBsfixdFx184SXFBEjKfKc3mC6kdp7j6DgevUUmCJ-CLkNrkJZ1VW59L6x3y7vILQ3ktWUEQePt76NqvDPCOphZbeCnQQGCuKJzhdLNsPCvPPgm4LhaMN8Dw8fVG_ZL62638HF5Sy0ldp1E_xnce_MwTaXfZTWrUi_q8g7HNKu4wQAHqdFKzDkJBiWHbhLMpSyrtv8KyRNcpEOIJITy2HRK84vVvL7OWr-ifMA=w1280)
+![Status](https://img.shields.io/badge/Status-Active-success)
 ![Innovation](https://img.shields.io/badge/Innovation-Driven-blue)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Enterprise-orange)
 ![Global](https://img.shields.io/badge/Global-Expansion-purple)
