@@ -1,0 +1,13 @@
+User-agent: *
+
+Allow: /
+
+# Website Information
+
+<title>VTNOD Exchange (Vantura Node Holdings)</title>
+
+<meta name="description" content="VTNOD Exchange (Vantura Node Holdings) is a technology-focused organization dedicated to digital infrastructure, innovation, security, and global connectivity solutions.">
+
+# Sitemap
+
+Sitemap: https://vtnodofficial.github.io/sitemap.xml
